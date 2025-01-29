@@ -1,3 +1,7 @@
+#Obaid Saif Alhmoudi 59726 
+variables(1-6)
+move semantics 1-5
+
 # Variables
 
 In Rust, variables are immutable by default.
